@@ -1,4 +1,5 @@
-# openposeforkeras\n
-openpose for keras\n
-use train.py to train
-new verson is coming
+# openposeforkeras
+openpose for keras.
+just for train.
+use train.py to train.
+new verson is coming.
